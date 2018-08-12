@@ -1,0 +1,2 @@
+# steganogosaurus
+Spectrogram steganography program
