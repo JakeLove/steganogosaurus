@@ -19,7 +19,7 @@ The program should produce a file called image.wav, the spectrogram of the produ
 ## Results
 Below is a comparison a spectrogram of your logo encoded into a 44100Hz wav file. Unfortunately the IBM logo does not encode very well into an audio file. This is due to the fact it is composed entirely of square waves, which are not represented well by a low frequency DFT.
 
-![alt text](http://kepl.io/IBMWAV.jpg "Logo Title Text 1")
+![Image](https://i.imgur.com/sZU5oKt.png)
 
 ## Options
 Some parameters can be specified explicitly. For more info use:
