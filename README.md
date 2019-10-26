@@ -17,7 +17,7 @@ python steganogasaurus.py image.bmp
 The program should produce a file called image.wav, the spectrogram of the produced file will contain the image.bmp. To view the spectrogram use a tool such as [SonicVisualizer](https://www.sonicvisualiser.org/) or [Audacity](https://www.audacityteam.org/).
 
 ## Results
-Below is a comparison a spectrogram of your logo encoded into a 44100Hz wav file. Unfortunately the IBM logo does not encode very well into an audio file. This is due to the fact it is composed entirely of square waves, which are not represented well by a low frequency DFT.
+Below is a comparison a spectrogram of the IBM logo encoded into a 44100Hz wav file. It is a good as the difficulty of creating good square waves is highlighted for a loq frequency signal.
 
 ![Image](https://i.imgur.com/sZU5oKt.png)
 
